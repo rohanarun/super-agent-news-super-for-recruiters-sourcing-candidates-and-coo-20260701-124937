@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[securityweek.com](https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/)",
+    "[darkreading.com](https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents)",
+    "[csoonline.com](https://www.csoonline.com/article/4188840/how-a-malicious-ai-agent-skill-passed-security-checks-and-reached-26000-users.html)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[venturebeat.com](https://venturebeat.com/ai/contrario-launches-the-case-for-pairing-ai-agents-with-human-recruiters-instead-of-replacing-them/)"
+  ],
+  "design_plan": "rng_seed=42; architecture=reuse_comparison_layout; hero_lines=2.5; aida=checked; bento_density=grid-auto-flow:dense; competitors_sweep=Folk,Orchids,Siri,ChatGPT,Gemini,Grok; button_contrast=AA; cache_phrase=present",
+  "generated_at": "2026-07-01T12:49:44.384947+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page that reuses Super\u2019s proven comparison\u2011page visual system, tailored to recruiters who source candidates, manage ATS work, and coordinate interviews across many tools. It positions Super as the sharper alternative for durable computer\u2011use workflows with a reusable computer\u2011use cache, grounded in current reporting on agentic AI, workflow automation, and security risks."
+}
